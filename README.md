@@ -7,10 +7,11 @@
 - Email: [yourself1011@pm.me](mailto:yourself1011@pm.me)
 
 ## 🔭 I’m currently working on
-- [SimpleRead](https://github.com/lifeng-yin/simpleread) - A simple, minimalist book reviewing website
+- [Personal Website](https://yourself1011.github.io/) - A responsive development portfolio made using Svelte
 
 ## 🏛 Previous Projects
-- [Personal Website](https://yourself1011.github.io/) - A responsive development portfolio made using React
+- [Mr. V Simulator](https://github.com/Yourself1011/Mr-V-Simulator) - A FPS game that uses a 3D engine built from scratch, and a self-designed maze-generating algorithm
+- [SimpleRead](https://github.com/lifeng-yin/simpleread) - A simple, minimalist book reviewing website
 - [Farmout Bot](https://github.com/Yourself1011/farmoutbot) - Discord bot about being a farmer
 - [Meleti](https://github.com/Yourself1011/meleti) - Discord bot to assist with studying and increase productivity
 
